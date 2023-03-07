@@ -1,2 +1,1 @@
-My first readme
-With God all things are possible
+My first readme With God all things are possible
